@@ -1,0 +1,39 @@
+body {overflow-x: hidden;}
+
+#start{background: black;}
+
+.title {margin: 25px auto;}
+.subtitle {margin: 10px auto;}
+h3{text-align: center}
+
+.table td, th {text-align: center;}
+#table_mresults{margin-left: 15px;}
+#table_mresults th
+{
+padding:0;
+background-color: darkcyan;
+color: white;
+}
+
+#table_mresults td
+{
+padding:5px;
+}
+
+#table_mresults tbody tr td:nth-child(3),  td:nth-child(4)
+{cursor: pointer;}
+
+#table_choose_1 tr.selected, #table_choose_2 tr.selected {
+    background-color:darkcyan !important;
+    color:#fff;
+}
+
+a, a:hover {
+	color: white;
+}
+
+.closeButtons{
+    padding: 0;
+    margin: 0 5px;
+}
+
