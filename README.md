@@ -1,5 +1,7 @@
 # FootballSimulation
 
+[LIVE PROJECT](https://canersezgin.github.io/FootballSimulation/)
+
 #### This is a text-based football simulation project. 
 * There is **18** teams from different countries/leagues. 
 * User selects **4** teams for the league. 
